@@ -2,7 +2,7 @@ Summary:	A Unix process browsing tool
 Summary(pl):	A Unix process browsing tool
 Name:		xemacs-view-process-pkg
 %define 	srcname	view-process
-Version:	1.08
+Version:	1.10
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
