@@ -2,12 +2,12 @@ Summary:	A Unix process browsing tool
 Summary(pl):	Narzêdzie do przegl±dania procesów
 Name:		xemacs-view-process-pkg
 %define 	srcname	view-process
-Version:	1.12
-Release:	3
+Version:	1.13
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	5259a3dbaa145eba1795d9b481589833
+# Source0-md5:	05eca7ec61259b47f2a741fc30dcc65f
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
