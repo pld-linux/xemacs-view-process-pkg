@@ -3,7 +3,7 @@ Summary(pl):	Narzêdzie do przegl±dania procesów
 Name:		xemacs-view-process-pkg
 %define 	srcname	view-process
 Version:	1.13
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
