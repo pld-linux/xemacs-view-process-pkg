@@ -1,5 +1,5 @@
 Summary:	A Unix process browsing tool
-Summary(pl):	Narzêdzie do przegl±dania procesów
+Summary(pl.UTF-8):   NarzÄ™dzie do przeglÄ…dania procesÃ³w
 Name:		xemacs-view-process-pkg
 %define 	srcname	view-process
 Version:	1.13
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 A Unix process browsing tool.
 
-%description -l pl
-Narzêdzie do przegl±dania procesów.
+%description -l pl.UTF-8
+NarzÄ™dzie do przeglÄ…dania procesÃ³w.
 
 %prep
 %setup -q -c
